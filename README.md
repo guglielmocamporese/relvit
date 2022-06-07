@@ -4,6 +4,11 @@
 
 This repository hosts the official code related to "Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer", Guglielmo Camporese, Elena Izzo, Lamberto Ballan. [[arXiv](https://arxiv.org/abs/2206.00481)] [[video](http://vimp.math.unipd.it/downloads/relvit_spotlight.mp4)]
 
+```bash
+If you use the code of this repo and you find this project useful, 
+please consider to give a star ⭐!
+```
+
 The code will be released soon. Stay tuned!
 
 ## Updates
