@@ -1,7 +1,8 @@
 # RelViT
 [![arXiv](https://img.shields.io/badge/arXiv-2104.09159-red)](https://arxiv.org/abs/2206.00481)
 [![arXiv](https://img.shields.io/badge/-CVPRw-yellow)](https://sites.google.com/view/t4v-cvpr22)
-[![arXiv](https://img.shields.io/badge/-BMVC_[oral-spotlight]-yellow)](https://bmvc2022.org/)
+[![arXiv](https://img.shields.io/badge/-BMVC-yellow)](https://bmvc2022.org/)
+
 
 This repository hosts the official code related to "Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer", Guglielmo Camporese, Elena Izzo, Lamberto Ballan. [[arXiv](https://arxiv.org/abs/2206.00481)] [[video](http://vimp.math.unipd.it/downloads/relvit_spotlight.mp4)]
 
