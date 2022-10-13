@@ -12,7 +12,7 @@ please consider to give a star ⭐!
 The code will be released soon (very soon..). Stay tuned!
 
 ## Updates
-* [22/10/13] Our paper has been accepted to BMVC 2022 (oral spotlight)!
-* [22/06/02] Our paper is on arXiv! Here you can find the [link](https://arxiv.org/abs/2206.00481).
-* [22/05/24] Our paper has been selected for a spotlight oral presentation at the CVPR 2022 "T4V: Transformers for Vision" workshop!
-* [22/05/23] Our paper just got accepted at the CVPR 2022 "T4V: Transformers for Vision" workshop!
+* **[22/10/13]** Our paper has been accepted to BMVC 2022 (oral spotlight)!
+* **[22/06/02]** Our paper is on arXiv! Here you can find the [link](https://arxiv.org/abs/2206.00481).
+* **[22/05/24]** Our paper has been selected for a spotlight oral presentation at the CVPR 2022 "T4V: Transformers for Vision" workshop!
+* **[22/05/23]** Our paper just got accepted at the CVPR 2022 "T4V: Transformers for Vision" workshop!
