@@ -1,0 +1,6 @@
+tmp
+datasets/data
+__pycache__
+checkpoints
+.ipynb_checkpoints
+_debug.ipynb
