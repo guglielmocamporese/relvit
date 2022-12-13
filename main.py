@@ -9,10 +9,9 @@ import logging
 import pytorch_lightning as pl
 
 # custom
-from config import get_args
+from utils import get_args, get_trainer
 from datasets.dataloaders import get_dataloaders
 from models import relvit
-from utils import get_trainer
 
 # settings
 format_str = '%(asctime)s - [%(levelname)s] - %(message)s'
