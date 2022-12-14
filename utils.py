@@ -350,7 +350,7 @@ def get_logger(args):
         logger = pl.loggers.WandbLogger(
             save_dir=os.path.join(os.getcwd(), 'tmp'),
             name='/'.join(name),
-            project='relvit_v2',
+            project='relvit',
             settings=wandb.Settings(start_method="fork"),
             config=args,
         )
