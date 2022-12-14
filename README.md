@@ -27,7 +27,6 @@ This repository hosts the official code related to the paper "Where are my Neigh
 * **[22/06/02]** Our paper is on arXiv! Here you can find the [link](https://arxiv.org/abs/2206.00481).
 * **[22/05/24]** Our paper has been selected for a spotlight oral presentation at the CVPR 2022 "T4V: Transformers for Vision" workshop!
 * **[22/05/23]** Our paper just got accepted at the CVPR 2022 "T4V: Transformers for Vision" workshop!
-<br><br>
 
 # Install
 <details>
@@ -43,7 +42,6 @@ conda env create -f env.yml
 conda activate relvit
 ```
 </details>
-<br>
 
 # Training
 
@@ -77,7 +75,6 @@ bash scripts/downstream.sh \
     --model_size small --dropout 0.0 --model_checkpoint checkpoint_path
 ```
 </details>
-
 
 <details>
 <summary>Downstream-Only Experiment</summary>
@@ -130,7 +127,6 @@ bash scripts/downstream.sh \
     --model_size small --dropout 0.0 --model_checkpoint checkpoint_path
 ```
 </details>
-<br>
 
 <details>
 <summary>Supported Datasets</summary>
@@ -146,7 +142,6 @@ Here you can find the list of all the supported datasets in the repo that can be
 * Tiny ImageNet
 * ImageNet100
 </details>
-<br>
 
 # Validate
 <details>
